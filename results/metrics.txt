@@ -1,0 +1,13 @@
+SOC estimation (2-RC ECM + EKF, mismatched model)
+  RMSE      : 1.785 %
+  MAE       : 1.684 %
+  Max error : 3.074 %
+  Convergence from 25 % initial error: 0 s
+
+SOH estimation
+  truth 100.0 %  ->  capacity  100.0 %  |  resistance   96.5 %
+  truth  95.0 %  ->  capacity   95.0 %  |  resistance   91.9 %
+  truth  90.0 %  ->  capacity   90.0 %  |  resistance   87.2 %
+  truth  85.0 %  ->  capacity   85.0 %  |  resistance   82.5 %
+  truth  80.0 %  ->  capacity   80.0 %  |  resistance   77.8 %
+  truth  75.0 %  ->  capacity   75.0 %  |  resistance   73.1 %
